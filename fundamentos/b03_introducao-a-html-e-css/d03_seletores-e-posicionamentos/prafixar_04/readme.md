@@ -1,0 +1,1 @@
+Nesse exercício estilizamos as divs de forma a ganharem uma borda quando o cursor passasse por cima, fizemos elas terem uma cor própria, estilizamos as tags h3, fizemos a terceira div ser maior que as demais e deixamos as tags ímpares h3 com texto em itálico.
